@@ -3,7 +3,8 @@
 ### install requirements
 ``` git clone --depth 1 https://github.com/jinchenliuljc/AVIDA.git
 cd AVIDA
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### create .env file
 Use your text editor, e.g. VScode, to create a .env file （. requirements.txt). Enter envronment variables like this
