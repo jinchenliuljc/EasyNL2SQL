@@ -1,6 +1,5 @@
-# AVIDA-A Very Intelligent Data Agent
+# 🚀 EasyNL2SQL -- A Database Agent
 A toy Database agent with ability to explore database with toolcalling, able to reflect and has long/short term memory. 
-## Get started
 ### install requirements
 ``` git clone --depth 1 https://github.com/jinchenliuljc/AVIDA.git
 cd AVIDA
