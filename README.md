@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 
 ### create .env file
-Use your text editor, e.g. VScode, to create a .env file （. requirements.txt). Enter envronment variables like this
+Use your text editor, e.g. VScode, to create a .env file. Enter envronment variables like this
 ```
 OPENAI_API_KEY= your openai api (only support this sofar)
 LANGCHAIN_API_KEY = your langchain api
@@ -19,4 +19,4 @@ LANGCHAIN_PROJECT = xxxxxx
 `python backend.py`
 
 ### try the agent with agent_client.py
-(. agent_client.py)
+see [agent_client.py](. agent_client.py)
