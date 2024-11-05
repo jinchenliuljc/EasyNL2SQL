@@ -10,7 +10,7 @@ pip install -r requirements.txt
 Use your text editor, e.g. VScode, to create a .env file. Enter envronment variables like this
 ```
 OPENAI_API_KEY= your openai api (only support this sofar)
-LANGCHAIN_API_KEY = your langchain api
+LANGCHAIN_API_KEY = your langchain api, you can use langsmith to monitor the agent flow. For details, check their docs.
 LANGCHAIN_TRACING_V2 = true
 LANGCHAIN_PROJECT = xxxxxx
 ```
